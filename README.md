@@ -37,3 +37,6 @@ En esta segunda imagen se observan distintos comandos:
 3) git push origin main-> Sube los datos al repositorio remoto en Github, donde se guarda todo. El main es la rama donde queremos que se guarden los cambios.
 
 
+![Ejemplo de captura](Images/C3.png)
+
+El comando git checkout "id del commit" nos permite movernos entre distintos commits, es decir, puedes volver a un commit realizado anteriormente, o posteriormente.
