@@ -25,3 +25,15 @@ git checkout main
 
 ## Imágenes comandos practica 1
 
+![Ejemplo de captura](Images/C1.png)
+
+El comando git status se usa para ver que archivos o cambios están pendientes por subir. Por ejemplo, en esta imagen te dice que se ha realizado una modificación en el archivo README.md y se debe de hacer un commit.
+
+![Ejemplo de captura](Images/C2.png)
+
+En esta segunda imagen se observan distintos comandos:
+1) git add-> Hace una "fotografía" de todos aquellos archivos sobre los cuales se han realizado cambios y los prepara para hacerles commit. El punto es porque seleccionas todos los archivos que han sido modificados, no uno en concreto.
+2) git commit -m "Mensaje"-> Este comando guarda los cambios localmente junto con un mensaje, lo cual los hace más fácil de identificar posteriormente.
+3) git push origin main-> Sube los datos al repositorio remoto en Github, donde se guarda todo. El main es la rama donde queremos que se guarden los cambios.
+
+
