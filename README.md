@@ -40,3 +40,5 @@ En esta segunda imagen se observan distintos comandos:
 ![Ejemplo de captura](Images/C3.png)
 
 El comando git checkout "id del commit" nos permite movernos entre distintos commits, es decir, puedes volver a un commit realizado anteriormente, o posteriormente.
+
+Por último, el comando git clone "dirección que se quiere clonar" no lo he realizado puesto que ya he hecho un fork de es repositorio anteriormente desde el entorno gráfico, y si lo vuelvo a clonar me da problemas, puesto que estaría guardando un repositorio(el clonado) dentro de otro repositorio, en mi caso, p1-fork.
